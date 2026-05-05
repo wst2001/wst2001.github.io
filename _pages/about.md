@@ -44,19 +44,18 @@ A novel multiscale autoregressive model for 3D shape generation that improves th
 
 Bojun Xiong, **Si-Tong Wei**, Xin-Yang Zheng, Yan-Pei Cao, Zhouhui Lian, Peng-Shuai Wang
 
-*Computer Graphics Forum (Symposium on Geometry Processing), 2025*
-
 [**arXiv**](https://arxiv.org/abs/2408.14732) \| [**Code**](https://github.com/octree-nn/octfusion)
 
 An octree-based diffusion model that generates high-quality 3D shapes with arbitrary resolutions in 2.5 seconds on a single GPU.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SGP 2025</div><img src='images/octfusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/mrt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection](http://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.html), Zijing Zhao, **Sitong Wei**, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu
-**ICCV 2023** 
+
+[**Page**](https://jeremyzhao1998.github.io/MRT-release/) |\
 [**Paper**](http://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.html) \| [**Code**](https://github.com/JeremyZhao1998/MRT-release)
 </div>
 </div>

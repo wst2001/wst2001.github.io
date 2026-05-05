@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Si-Tong Wei (魏斯桐)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student at Peking University"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           :
