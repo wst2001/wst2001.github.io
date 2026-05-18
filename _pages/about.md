@@ -53,9 +53,9 @@ An octree-based diffusion model that generates high-quality 3D shapes with arbit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/mrt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection](http://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.html), Zijing Zhao, **Sitong Wei**, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu
+[Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection](http://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.html), Zijing Zhao, **Sitong Wei**, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu
 
-[**Page**](https://jeremyzhao1998.github.io/MRT-release/) |\
+[**Page**](https://jeremyzhao1998.github.io/MRT-release/) \|
 [**Paper**](http://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.html) \| [**Code**](https://github.com/JeremyZhao1998/MRT-release)
 </div>
 </div>
@@ -70,5 +70,5 @@ An octree-based diffusion model that generates high-quality 3D shapes with arbit
 # 💼 Services
 - **Reviewer**: CVPR 2026, TOG
 - **Teaching Assistant**:
-  - Computer Vision (2023, 2024, 2025)
-  - Frontiers in Geometric Computing (2024, 2026)
+  - Computer Vision (Undergraduate course, 2023-2025 Fall)
+  - The Frontiers of Geometry Computing (Undergraduate course, 2023 Spring, 2025 Spring)
